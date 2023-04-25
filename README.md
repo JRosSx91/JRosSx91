@@ -9,10 +9,8 @@ What I love most about programming is the constant need to learn new things and 
 
 I'm excited for the opportunity to further develop my skills in the programming field and look forward to bringing value to any team I have the opportunity to work on.
 
-<div align="center"> 
 <img height="200" src="https://github-readme-stats.vercel.app/api?username=JRosSx91&count_private=true&show_icons=true" />
 <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRosSx91&layout=compact&langs_count=8" />
-</div>
 
 <!--
 **JRosSx91/JRosSx91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
