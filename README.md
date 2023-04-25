@@ -10,7 +10,7 @@ What I love most about programming is the constant need to learn new things and 
 I'm excited for the opportunity to further develop my skills in the programming field and look forward to bringing value to any team I have the opportunity to work on.
 <br/>
 <br/>
-<div style="display:flex">
+<div style="display:flex; align-items: center;">
 <img max-height="200px" width="50%" style="margin: 0 auto;" src="https://github-readme-stats.vercel.app/api?username=JRosSx91&count_private=true&show_icons=true" />
 <img max-height="200px" width="40%" style="margin: 0 auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRosSx91&layout=compact&langs_count=8" />
 </div>
