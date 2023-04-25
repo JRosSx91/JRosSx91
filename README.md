@@ -10,7 +10,7 @@ What I love most about programming is the constant need to learn new things and 
 I'm excited for the opportunity to further develop my skills in the programming field and look forward to bringing value to any team I have the opportunity to work on.
 <br/>
 <br/>
-<a href="https://www.linkedin.com/in/jross91#gh-light-mode-only" target="_blank">
+<a href="https://www.linkedin.com/in/jross91" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only" alt="Connect with me on linkedin" >
 <br/>
 <br/>
