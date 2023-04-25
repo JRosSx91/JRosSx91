@@ -10,7 +10,7 @@ What I love most about programming is the constant need to learn new things and 
 I'm excited for the opportunity to further develop my skills in the programming field and look forward to bringing value to any team I have the opportunity to work on.
 
 <div align="center"> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JRosSx91&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JRosSx91&size_weight=0.5&count_weight=0.5)](https://github.com/JRosSx91)
 </div>
 
 <!--
