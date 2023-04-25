@@ -8,10 +8,11 @@ I'm working hard to acquire a solid set of technical skills in programming. So f
 What I love most about programming is the constant need to learn new things and the opportunity to solve unique and challenging problems. I believe this passion for continuous learning and problem solving makes me a strong candidate for any company looking for a passionate and dedicated programmer.
 
 I'm excited for the opportunity to further develop my skills in the programming field and look forward to bringing value to any team I have the opportunity to work on.
-
+<br/>
+<br/>
 <div style="display:flex">
-<img height="200" width="53%" style="display: flex" src="https://github-readme-stats.vercel.app/api?username=JRosSx91&count_private=true&show_icons=true" />
-<img height="200" width="43%" style="display: flex" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRosSx91&layout=compact&langs_count=8" />
+<img height="200px" width="53%" style="display: flex" src="https://github-readme-stats.vercel.app/api?username=JRosSx91&count_private=true&show_icons=true" />
+<img height="200px" width="43%" style="display: flex" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRosSx91&layout=compact&langs_count=8" />
 </div>
 <!--
 **JRosSx91/JRosSx91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
