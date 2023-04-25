@@ -8,6 +8,8 @@ What I love most about programming is the constant need to learn new things and 
 
 I'm excited for the opportunity to further develop my skills in the programming field and look forward to bringing value to any team I have the opportunity to work on.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JRosSx91)]
+
 <!--
 **JRosSx91/JRosSx91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
