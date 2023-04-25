@@ -10,12 +10,7 @@ What I love most about programming is the constant need to learn new things and 
 I'm excited for the opportunity to further develop my skills in the programming field and look forward to bringing value to any team I have the opportunity to work on.
 
 <div align="center"> 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JRosSx91&layout=compact&hide=c%23,css,scss,less,html,jupyter%20notebook,powershell,perl,javascript,cmake,batchfile,visual%20basic%20.net,f%23,cython,jinja,fortran,makefile&langs_count=12&&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="JRosSx91's Language stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JRosSx91&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=450&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="JRosSx91's Github stats" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JRosSx91&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <!--
