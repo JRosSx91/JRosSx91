@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.github.com/JRosSx91"><img width="80%" alt="Hello, I'm Iván. I love design :)!" src="./assets/gh-readme-header.png" /></a></p>
+### Hey, I'm Ivan👋 :)
 <img src="https://img.shields.io/github/followers/JRosSx91?label=Follow&style=social">
 
 Since I was a child, I've always been passionate about science and technology. I'm fascinated by the power of computers to solve complex problems and improve people's lives. I became interested in programming at a very young age, when I had my first encounter with a Windows 95 computer. Since then, I haven't stopped learning and developing my skills in the field.
