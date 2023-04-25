@@ -11,8 +11,8 @@ I'm excited for the opportunity to further develop my skills in the programming 
 <br/>
 <br/>
 <div style="display:flex">
-<img height="200px" width="50%" src="https://github-readme-stats.vercel.app/api?username=JRosSx91&count_private=true&show_icons=true" />
-<img height="200px" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRosSx91&layout=compact&langs_count=8" />
+<img max-height="200px" width="50%" src="https://github-readme-stats.vercel.app/api?username=JRosSx91&count_private=true&show_icons=true" />
+<img max-height="200px" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRosSx91&layout=compact&langs_count=8" />
 </div>
 <!--
 **JRosSx91/JRosSx91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
