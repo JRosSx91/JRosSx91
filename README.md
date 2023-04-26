@@ -13,6 +13,7 @@ I'm working hard to acquire a solid set of technical skills in programming. So f
 What I love most about programming is the constant need to learn new things and the opportunity to solve unique and challenging problems. I believe this passion for continuous learning and problem solving makes me a strong candidate for any company looking for a passionate and dedicated programmer.
 
 I'm excited for the opportunity to further develop my skills in the programming field and look forward to bringing value to any team I have the opportunity to work on.
+
 ---
 <div align="center">
 <code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
