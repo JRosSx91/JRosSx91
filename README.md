@@ -16,7 +16,7 @@ I'm excited for the opportunity to further develop my skills in the programming 
 
 ---
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,mysql,tailwind,bootstrap,vue,angular,py,github,aws,ps,ai">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,mysql,tailwind,bootstrap,vue,angular,py,git,aws,ps,ai">
   </div>
   <br>
   <br>
