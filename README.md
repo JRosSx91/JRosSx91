@@ -24,7 +24,7 @@ I'm excited for the opportunity to further develop my skills in the programming 
   <br>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JRosSx91&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRosSx91&layout=compact&theme=buefy&hide_border=true" /></a>
 ### Value of major cryptocurrencies
-  <div>
+  <div align="center">
 <img src="https://img.shields.io/coincap/price-usd/bitcoin?style=for-the-badge">
 <img src="https://img.shields.io/coincap/price-usd/ethereum?style=for-the-badge">
 <img src="https://img.shields.io/coincap/price-usd/solana?style=for-the-badge">
