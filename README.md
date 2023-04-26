@@ -23,16 +23,20 @@ I started with basic knowledge of HTML5, CSS3 and JavaScript to build web applic
 I'm excited about the opportunity to further develop my skills in the programming field and look forward to bringing value to any team I have the opportunity to work on.
 
 ---
-<h2>Techs</h2>
+<h2>Techs 📊</h2>
 <div align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,mysql,tailwind,bootstrap,vue,angular,py,git,aws,ps,ai">
   </div>
   <br>
-  <h2>Stats</h2>
+  <h2>Stats 📈</h2>
   <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JRosSx91&show_icons=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRosSx91&layout=compact&theme=buefy&hide_border=true" /></a>
   </div>
 <br>
+<h2>Activity</h2>
+<div align="center>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=JRosSx91"/>
+                                                                            </div><br>
 <h2>Cryptocurrencies</h2>
   <div align="center">
 <img src="https://img.shields.io/coincap/price-usd/bitcoin?style=for-the-badge">
