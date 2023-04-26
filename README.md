@@ -1,12 +1,11 @@
-### Hey, I'm Ivan👋 :)
-<img src="https://img.shields.io/github/followers/JRosSx91?label=Follow&style=social"> <br><br>
-<i>Actually, a Frontend Developer!</i><br><br>
+<h1 align="center"> Hey, I'm Ivan👋 :) <img src="https://img.shields.io/github/followers/JRosSx91?label=Follow&style=social"></h1>
+<p align="center"><i>Actually, a Frontend Developer!</i></p>
 <a href="https://www.linkedin.com/in/jross91" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only" alt="Connect with me on linkedin" ></a>
 
 ---
 
-<video src="https://user-images.githubusercontent.com/123682394/234542550-ded8b843-7eec-4142-932b-74bc8d702fdc.mp4">
+<video src="https://user-images.githubusercontent.com/123682394/234542550-ded8b843-7eec-4142-932b-74bc8d702fdc.mp4" width="50%"></video>
 
 I've always been passionate about science and technology since I was a child. I'm fascinated by the power of computers to solve complex problems and improve people's lives. I became interested in computers at a very young age, when I had my first encounter with a Windows 3.1 computer. Since then, I haven't stopped learning and developing my knowledge and skills in the field of system administration.
 
