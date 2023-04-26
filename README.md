@@ -22,6 +22,8 @@ I'm excited for the opportunity to further develop my skills in the programming 
 <code><img height="20" alt="mysql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 ### Value of major cryptocurrencies
 <img src="https://img.shields.io/coincap/price-usd/bitcoin?style=for-the-badge">
+<img src="https://img.shields.io/coincap/price-usd/ethereum?style=for-the-badge">
+<img src="https://img.shields.io/coincap/price-usd/solana?style=for-the-badge">
   <br/>
   <br/>
  <a href="https://www.linkedin.com/in/jross91" target="_blank">
