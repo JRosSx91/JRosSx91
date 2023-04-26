@@ -3,6 +3,10 @@
 <h2>Find me 👇</h2>
 <a href="https://www.linkedin.com/in/jross91" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only" alt="Connect with me on linkedin" ></a>
+<a href="https://www.instagram.com/toxic_ivy91">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="mailto:igomezcarrasco.91@gmail.com?subject=Questions">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Connect with me by mail"></a>
 
 ---
 
