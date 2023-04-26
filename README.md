@@ -1,7 +1,6 @@
-### Hey, I'm Ivan👋 :)
+### Hey, I'm Ivan👋 :)  <img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only" alt="Connect with me on linkedin" >
 <i>Actually, a Frontend Developer!</i><br><br>
 <img src="https://img.shields.io/github/followers/JRosSx91?label=Follow&style=social"><br/><br/>  <a href="https://www.linkedin.com/in/jross91" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only" alt="Connect with me on linkedin" >
 
 ---
   
