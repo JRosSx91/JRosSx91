@@ -28,16 +28,28 @@ I'm excited about the opportunity to further develop my skills in the programmin
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,mysql,tailwind,bootstrap,vue,angular,py,git,aws,ps,ai">
   </div>
   <br>
-  <h2>Stats 📈</h2>
+  <h2>GitHub Stats 🔝</h2>
   <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JRosSx91&show_icons=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRosSx91&layout=compact&theme=buefy&hide_border=true" /></a>
   </div>
 <br>
-<h2>Activity</h2>
-<div align="center>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=JRosSx91"/>
-                                                                            </div><br>
-<h2>Cryptocurrencies</h2>
+<h2>Streak Stats ⏱</h2>
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JRosSx91">
+  </div>
+<br>
+<h2>Activity 📈</h2>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=JRosSx91&theme=vue"/>
+                                                                           <br>
+<h2>Profile Card 💳</h2>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JRosSx91"></div>
+  <br>
+ <h2>Trophies 🏆</h2>
+ <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JRosSx91">
+  </div>
+<h2>Cryptocurrencies 💰</h2>
   <div align="center">
 <img src="https://img.shields.io/coincap/price-usd/bitcoin?style=for-the-badge">
 <img src="https://img.shields.io/coincap/price-usd/ethereum?style=for-the-badge">
