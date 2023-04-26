@@ -1,5 +1,6 @@
 ### Hey, I'm Ivan👋 :)
-<img src="https://img.shields.io/github/followers/JRosSx91?label=Follow&style=social">
+<img src="https://img.shields.io/github/followers/JRosSx91?label=Follow&style=social">  <a href="https://www.linkedin.com/in/jross91" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only" alt="Connect with me on linkedin" >
 
 Since I was a child, I've always been passionate about science and technology. I'm fascinated by the power of computers to solve complex problems and improve people's lives. I became interested in programming at a very young age, when I had my first encounter with a Windows 95 computer. Since then, I haven't stopped learning and developing my skills in the field.
 
@@ -8,7 +9,6 @@ I'm working hard to acquire a solid set of technical skills in programming. So f
 What I love most about programming is the constant need to learn new things and the opportunity to solve unique and challenging problems. I believe this passion for continuous learning and problem solving makes me a strong candidate for any company looking for a passionate and dedicated programmer.
 
 I'm excited for the opportunity to further develop my skills in the programming field and look forward to bringing value to any team I have the opportunity to work on.
-<br/>
 <br/>
 ### Tech Skills
 <code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -25,10 +25,6 @@ I'm excited for the opportunity to further develop my skills in the programming 
 <img src="https://img.shields.io/coincap/price-usd/ethereum?style=for-the-badge">
 <img src="https://img.shields.io/coincap/price-usd/solana?style=for-the-badge">
   <br/>
-  <br/>
- <a href="https://www.linkedin.com/in/jross91" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only" alt="Connect with me on linkedin" >
-<br/>
 <br/>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JRosSx91&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRosSx91&layout=compact&theme=buefy&hide_border=true" /></a>
 <!--
