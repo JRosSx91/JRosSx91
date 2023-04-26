@@ -25,10 +25,12 @@ I'm excited for the opportunity to further develop my skills in the programming 
 <img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only" alt="Connect with me on linkedin" >
 <br/>
 <br/>
-<div style="display:flex;" align="center">
-<img max-height="200px" width="50%" style="margin: 0 auto;" src="https://github-readme-stats.vercel.app/api?username=JRosSx91&count_private=true&show_icons=true" />
-<img max-height="200px" width="40%" style="margin: 0 auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRosSx91&layout=compact&langs_count=8" />
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JRosSx91&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JRosSx91&repo=anuraghazra.github.io&theme=buefy" />
+</a>
 <!--
 **JRosSx91/JRosSx91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
