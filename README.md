@@ -30,6 +30,9 @@ I'm excited about the opportunity to further develop my skills in the programmin
   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JRosSx91&show_icons=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRosSx91&layout=compact&theme=buefy&hide_border=true" /></a>
   </div>
 <br>
+<h2>Repositories</h2>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JRosSx91&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 <h2>Cryptocurrencies</h2>
   <div align="center">
 <img src="https://img.shields.io/coincap/price-usd/bitcoin?style=for-the-badge">
