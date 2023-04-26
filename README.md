@@ -20,7 +20,7 @@ What I love most about programming is the constant need to learn new things and 
 
 I started with basic knowledge of HTML5, CSS3 and JavaScript to build web applications with a server-side PHP programming. From there I started using Js frameworks like Angular or Vue. Currently, I'm trying to expand my knowledge of TypeScript and Python as much as possible. Someday I would like to be a Full Stack😄.
 
-I'm excited about the opportunity to further develop my skills in the programming field and look forward to bringing value to any team I have the opportunity to work on.
+I'm excited about the opportunity to further develop my skills in the programming field and look forward to adding value to any team I have the opportunity to work on.
 
 ---
 <h2>Techs 📊</h2>
