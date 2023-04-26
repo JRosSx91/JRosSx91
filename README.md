@@ -6,7 +6,7 @@
 
 ---
 
-![aboutme](https://user-images.githubusercontent.com/123682394/234542550-ded8b843-7eec-4142-932b-74bc8d702fdc.mp4)
+<video src="https://user-images.githubusercontent.com/123682394/234542550-ded8b843-7eec-4142-932b-74bc8d702fdc.mp4">
 
 I've always been passionate about science and technology since I was a child. I'm fascinated by the power of computers to solve complex problems and improve people's lives. I became interested in computers at a very young age, when I had my first encounter with a Windows 3.1 computer. Since then, I haven't stopped learning and developing my knowledge and skills in the field of system administration.
 
