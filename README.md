@@ -1,7 +1,8 @@
 ### Hey, I'm Ivan👋 :)
-<img src="https://img.shields.io/github/followers/JRosSx91?label=Follow&style=social"><a href="https://www.linkedin.com/in/jross91" target="_blank"> <br><br>
+<img src="https://img.shields.io/github/followers/JRosSx91?label=Follow&style=social"> <br><br>
 <i>Actually, a Frontend Developer!</i><br><br>
-<img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only" alt="Connect with me on linkedin" >
+<a href="https://www.linkedin.com/in/jross91" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only" alt="Connect with me on linkedin" ></a>
 
 ---
   
@@ -12,7 +13,7 @@ I'm working hard to acquire a solid set of technical skills in programming. So f
 What I love most about programming is the constant need to learn new things and the opportunity to solve unique and challenging problems. I believe this passion for continuous learning and problem solving makes me a strong candidate for any company looking for a passionate and dedicated programmer.
 
 I'm excited for the opportunity to further develop my skills in the programming field and look forward to bringing value to any team I have the opportunity to work on.
-<br/>
+---
 <div align="center">
 <code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
