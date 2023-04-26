@@ -28,7 +28,6 @@ I'm excited about the opportunity to further develop my skills in the programmin
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,php,mysql,tailwind,bootstrap,vue,angular,py,git,aws,ps,ai">
   </div>
   <br>
-  <br>
   <h2>Stats</h2>
   <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JRosSx91&show_icons=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRosSx91&layout=compact&theme=buefy&hide_border=true" /></a>
