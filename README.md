@@ -1,8 +1,7 @@
 ### Hey, I'm Ivan👋 :)
 <i>Actually, a Frontend Developer!</i><br><br>
 <img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only" alt="Connect with me on linkedin" >
-<img src="https://img.shields.io/github/followers/JRosSx91?label=Follow&style=social"><br/><br/>  <a href="https://www.linkedin.com/in/jross91" target="_blank">
-  
+<img src="https://img.shields.io/github/followers/JRosSx91?label=Follow&style=social"><br/><br/>  <a href="https://www.linkedin.com/in/jross91" target="_blank"> 
 ---
   
 Since I was a child, I've always been passionate about science and technology. I'm fascinated by the power of computers to solve complex problems and improve people's lives. I became interested in programming at a very young age, when I had my first encounter with a Windows 95 computer. Since then, I haven't stopped learning and developing my skills in the field.
