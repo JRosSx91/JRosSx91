@@ -6,13 +6,15 @@
 
 ---
 
-Since I was a child, I've always been passionate about science and technology. I'm fascinated by the power of computers to solve complex problems and improve people's lives. I became interested in programming at a very young age, when I had my first encounter with a Windows 95 computer. Since then, I haven't stopped learning and developing my skills in the field.
+I've always been passionate about science and technology since I was a child. I'm fascinated by the power of computers to solve complex problems and improve people's lives. I became interested in computers at a very young age, when I had my first encounter with a Windows 3.1 computer. Since then, I haven't stopped learning and developing my knowledge and skills in the field of system administration.
 
-I'm working hard to acquire a solid set of technical skills in programming. So far the Frontend has been what I have spent most of my time on, but I hope to progress until I can be considered a Full Stack😄. I've also worked in mobile and web application development, which has given me a deeper understanding of how computer systems work.
+I started in the world of programming years later, and it was then that I discovered a perfect analogy with my love for the stars and the universe: the opportunity to create systems with your own laws.
 
 What I love most about programming is the constant need to learn new things and the opportunity to solve unique and challenging problems. I believe this passion for continuous learning and problem solving makes me a strong candidate for any company looking for a passionate and dedicated programmer.
 
-I'm excited for the opportunity to further develop my skills in the programming field and look forward to bringing value to any team I have the opportunity to work on.
+I started with basic knowledge of HTML5, CSS3 and JavaScript to build web applications with a server-side PHP programming. From there I started using Js frameworks like Angular or Vue. Currently, I'm trying to expand my knowledge of TypeScript and Python as much as possible. Someday I would like to be a Full Stack😄.
+
+I'm excited about the opportunity to further develop my skills in the programming field and look forward to bringing value to any team I have the opportunity to work on.
 
 ---
 <div align="center">
