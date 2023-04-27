@@ -9,6 +9,7 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Connect with me by mail"></a>
 <a href="https://steamcommunity.com/profiles/76561198241812224/">
  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
+<a href="https://www.leagueoflegends.com/es-es/"><img title="as Kouzuki D Oden" src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white"></a>
 
 ---
 
