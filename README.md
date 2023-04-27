@@ -10,6 +10,8 @@
 <a href="https://steamcommunity.com/profiles/76561198241812224/">
  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
 <a href="https://www.leagueoflegends.com/es-es/"><img title="as Kouzuki D Oden" src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white"></a>
+<a href="https://discord.gg/EA3yQ3Xy"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://id.sonyentertainmentnetwork.com/id/management_ca/?gated=true&pr_referer=cam&entry=psn_profile&cid=7249a098-9e80-4bf9-b73e-c9039d431d9b#/p/psn_profile/list?state=cam_144a5767a8f54c2361058d0956cf75c3&cid=863a31fb-25ea-4c0c-b1d4-6ebc7799f2e2&entry=psn_profile"><img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="playstation profile"></a>
 
 ---
 
