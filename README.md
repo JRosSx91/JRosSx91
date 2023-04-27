@@ -24,7 +24,7 @@ I started with basic knowledge of HTML5, CSS3 and JavaScript to build web applic
 
 I'm excited about the opportunity to further develop my skills in the programming field and look forward to adding value to any team I have the opportunity to work on.
 
-MY CV: <a href=""><img src="https://github.com/JRosSx91/JRosSx91/blob/main/6588143.png" alt="my cv"></a>
+MY CV: <a href="https://github.com/JRosSx91/JRosSx91/blob/main/CV-IvanGomez.pdf"><img src="https://github.com/JRosSx91/JRosSx91/blob/main/6588143.png" alt="my cv"></a>
 
 ---
 <h2>Techs 📊</h2>
