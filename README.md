@@ -1,5 +1,5 @@
 <h1> Hey, I'm Ivan👋 :)</h1>
-<img src="https://readme-typing-svg.demolab.com/?lines=I'm a Frontend Developer!;In continuous learning!;Full Stack soon!">
+<img src="https://readme-typing-svg.demolab.com/?color=0A1240&lines=I'm a Frontend Developer!;In continuous learning!;Full Stack soon!">
  <div align="left">
 <img src="https://img.shields.io/github/followers/JRosSx91?label=Follow&style=social">
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{JRosSx91}1212%2Fhit-counter">
