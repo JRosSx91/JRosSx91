@@ -1,6 +1,6 @@
 <h1 align="center"> Hey, I'm Ivan👋 :)</h1>
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=?I'm currently a Frontend Developer!;I'm still preparing myself to become a Full Stack!">
+<img src="https://readme-typing-svg.demolab.com/?lines=I'm currently a Frontend Developer!;I'm still preparing myself to become a Full Stack!">
 </div>
 <div align="center">
 <img src="https://img.shields.io/github/followers/JRosSx91?label=Follow&style=social">
