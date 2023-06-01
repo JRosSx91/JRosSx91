@@ -1,5 +1,7 @@
 <h1 align="center"> Hey, I'm Ivan👋 :)</h1>
-<p align="center"><i>Actually, a Frontend Developer! But Full Stack' coming soon^^</i></p>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=Actually a Frontend Developer!;Keep learning to become a Full Stack!">
+</div>
 <div align="center">
 <img src="https://img.shields.io/github/followers/JRosSx91?label=Follow&style=social">
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{JRosSx91}1212%2Fhit-counter">
