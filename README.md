@@ -17,15 +17,19 @@
 
 <video src="https://user-images.githubusercontent.com/123682394/234542550-ded8b843-7eec-4142-932b-74bc8d702fdc.mp4" controls="controls" style="max-width: 730px;"></video>
 
-I've always been passionate about science and technology since I was a child. I'm fascinated by the power of computers to solve complex problems and improve people's lives. I became interested in computers at a very young age, when I had my first encounter with a Windows 3.1 computer. Since then, I haven't stopped learning and developing my knowledge and skills in the field of system administration.
+I have been passionate about science and technology since I was a child. I am fascinated by the power of computers to solve complex problems and improve people's lives. I became interested in computers at a very young age, when I had my first encounter with a Windows 3.1 computer. Since then, I have not stopped learning and developing my knowledge. Since then, I have not stopped learning and developing my knowledge and skills in the field of system administration.
 
-I started in the world of programming years later, and it was then that I discovered a perfect analogy with my love for the stars and the universe: the opportunity to create systems with your own laws❤️.
+I got into programming years later, and it was then that I discovered a perfect analogy to my love for the stars and the universe: the opportunity to create systems with your own laws❤️.
 
 What I love most about programming is the constant need to learn new things and the opportunity to solve unique and challenging problems. I believe this passion for continuous learning and problem solving makes me a strong candidate for any company looking for a passionate and dedicated programmer.
 
-I started with basic knowledge of HTML5, CSS3 and JavaScript to build web applications with a server-side PHP programming. From there I started using Js frameworks like Angular or Vue. Currently, I'm trying to expand my knowledge of TypeScript and Python as much as possible. Someday I would like to be a Full Stack😄.
+I started with basic knowledge of HTML5, CSS3 and JavaScript to build web applications with server-side PHP programming. From there I started using Js frameworks like Angular or Vue, and I must say that I am in love with the architecture of the latter.
 
-I'm excited about the opportunity to further develop my skills in the programming field and look forward to adding value to any team I have the opportunity to work on.
+Currently, I'm trying to expand my knowledge of TypeScript, Python and Rust as much as possible. Someday I would like to be a Full Stack😄, because although I love playing with emotions, I think the logic behind the code is the part that attracts me the most.
+
+The discovery of Rust has meant a radical change in my way of looking at programming. Managing low-level code is appealing!
+
+I am excited about the opportunity to further develop my skills in the programming field and hope to bring value to any team I get the chance to work on.
 
 My Curriculum Vitae here: <a href="https://github.com/JRosSx91/JRosSx91/blob/main/IvanGomezActualizado.pdf"><img height="24" src="https://github.com/JRosSx91/JRosSx91/blob/main/6588143.png" alt="my cv"></a>
 
