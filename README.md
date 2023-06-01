@@ -98,8 +98,8 @@ My Curriculum Vitae here: <a href="https://github.com/JRosSx91/JRosSx91/blob/mai
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JRosSx91">
   </div>
 <br>
-<h2>Activity 📈</h2>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=JRosSx91"/>
+<h2>Wakatime Stats 📈</h2>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JRosSx91"/>
                                                                            <br>
 <h2>Profile Card 💳</h2>
 <div align="center">
