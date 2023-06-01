@@ -1,5 +1,5 @@
 <h1 align="center"> Hey, I'm Ivan👋 :) <img src="https://img.shields.io/github/followers/JRosSx91?label=Follow&style=social"></h1>
-<p align="center"><i>Actually, a Frontend Developer!</i></p>
+<p align="center"><i>Actually, a Frontend Developer! But Full Stack' coming soon^^</i></p>
 <h2>Find me 👇</h2>
 <a href="https://www.linkedin.com/in/jross91" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only" alt="Connect with me on linkedin" ></a>
