@@ -1,5 +1,5 @@
 <h1 align="center"> Hey, I'm Ivan👋 :)</h1>
-<div align="right">
+<div align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=I'm a Frontend Developer!;In continuous learning!;Full Stack soon!">
  </div>
  <div align="center">
