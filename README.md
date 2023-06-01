@@ -1,4 +1,5 @@
 <h1> Hey, I'm Ivan👋 :)</h1>
+<img src="https://github.com/JRosSx91/JRosSx91/blob/main/logogit.png">
 <img src="https://readme-typing-svg.demolab.com/?color=0A1240&lines=I'm a Frontend Developer!;In continuous learning!;Full Stack soon!">
  <div align="left">
 <img src="https://img.shields.io/github/followers/JRosSx91?label=Follow&style=social">
