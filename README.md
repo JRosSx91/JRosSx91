@@ -21,7 +21,7 @@
 
 <video src="https://user-images.githubusercontent.com/123682394/234542550-ded8b843-7eec-4142-932b-74bc8d702fdc.mp4" controls="controls" style="max-width: 730px;"></video>
 
-I have been passionate about science and technology since I was a child. I am fascinated by the power of computers to solve complex problems and improve people's lives. I became interested in computers at a very young age, when I had my first encounter with a Windows 3.1 computer. Since then, I have not stopped learning and developing my knowledge. Since then, I have not stopped learning and developing my knowledge and skills in the field of system administration.
+I have been passionate about science and technology since I was a child. I am fascinated by the power of computers to solve complex problems and improve people's lives. I became interested in computers at a very young age, when I had my first encounter with a Windows 3.1 computer. Since then, I have not stopped learning and developing my knowledge and skills in the field of system administration.
 
 I got into programming years later, and it was then that I discovered a perfect analogy to my love for the stars and the universe: the opportunity to create systems with your own laws❤️.
 
