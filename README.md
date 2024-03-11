@@ -57,10 +57,14 @@ My Curriculum Vitae here: <a href="https://github.com/JRosSx91/JRosSx91/blob/mai
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   <img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white">
  </div>
   <h3>Databases ⚡</h3>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  <div>
+     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  </div>
   <h3>Design 🖍</h3>
   <div>
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
@@ -91,7 +95,7 @@ My Curriculum Vitae here: <a href="https://github.com/JRosSx91/JRosSx91/blob/mai
   <br>
   <h2>GitHub Stats 🔝</h2>
   <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JRosSx91&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="JRosS91 github stats" /></a>  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JRosSx91&layout=compact&theme=buefy&hide_border=true&langs_count=10&size_weight=0&count_weight=1&hide=makefile,llvm,hack,roff,m4,cmake,shell,d,digitalconverter,batchfile" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JRosSx91&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="JRosS91 github stats" /></a>  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JRosSx91&layout=compact&theme=buefy&hide_border=true&langs_count=10&size_weight=0&count_weight=1&hide=html,css,c,makefile,llvm,hack,roff,m4,cmake,shell,d,digitalconverter,batchfile" /></a>
   </div>
 <br>
 <h2>Streak Stats ⏱</h2>
