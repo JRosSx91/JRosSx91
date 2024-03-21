@@ -96,7 +96,7 @@ My Curriculum Vitae here: <a href="https://github.com/JRosSx91/JRosSx91/blob/mai
   <br>
   <h2>GitHub Stats 🔝</h2>
   <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JRosSx91&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="JRosS91 github stats" /></a>  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JRosSx91&layout=compact&theme=buefy&hide_border=true&langs_count=10&size_weight=1&count_weight=0&hide=html,c,makefile,llvm,hack,roff,m4,cmake,shell,d,digitalconverter,batchfile" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JRosSx91&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="JRosS91 github stats" /></a>  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JRosSx91&layout=compact&theme=buefy&hide_border=true&langs_count=10&size_weight=0&count_weight=1&hide=c,makefile,llvm,hack,roff,m4,cmake,shell,d,digitalconverter,batchfile" /></a>
   </div>
 <br>
 <h2>Streak Stats ⏱</h2>
