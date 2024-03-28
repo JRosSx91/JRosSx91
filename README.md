@@ -96,6 +96,11 @@ My Curriculum Vitae here: <a href="https://github.com/JRosSx91/JRosSx91/blob/mai
   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JRosSx91&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="JRosS91 github stats" /></a>  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JRosSx91&layout=compact&theme=buefy&hide_border=true&langs_count=20&size_weight=0&count_weight=1&hide=c,makefile,llvm,hack,roff,m4,cmake,shell,d,digitalconverter,batchfile" /></a>
   </div>
 <br>
+<h2>GitHub Trends 🔝</h2>
+  <div align="center">
+  [![GitHub Trends SVG](https://api.githubtrends.io/JRosSx91/svg/avgupta456/langs)](https://githubtrends.io)
+  </div>
+<br>
 <h2>Streak Stats ⏱</h2>
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JRosSx91">
