@@ -98,7 +98,7 @@ My Curriculum Vitae here: <a href="https://github.com/JRosSx91/JRosSx91/blob/mai
 <br>
 <h2>GitHub Trends 🔝</h2>
   <div align="center">
-  <img src="https://api.githubtrends.io/user/svg/JRosSx91/langs">
+   <img src="https://www.githubwrapped.io/JRosSx91">
   </div>
 <br>
 <h2>Streak Stats ⏱</h2>
