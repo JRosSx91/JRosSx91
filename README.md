@@ -103,7 +103,7 @@ My Curriculum Vitae here: <a href="https://github.com/JRosSx91/JRosSx91/blob/mai
 <br>
 <h2>Wakatime Stats 📈</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JRosS91">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JRosS91&layout=compact">
 </div>                                                                      <br>
 <h2>Profile Card 💳</h2>
 <div align="center">
