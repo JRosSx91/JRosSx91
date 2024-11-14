@@ -107,7 +107,7 @@ My Curriculum Vitae here: <a href="https://github.com/JRosSx91/JRosSx91/blob/mai
 </div>                                                                      <br>
 <h2>Profile Card 💳</h2>
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JRosSx91"></div>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JRosSx91&theme=default"></div>
   <br>
  <h2>Trophies 🏆</h2>
  <div align="center">
