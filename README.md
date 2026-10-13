@@ -1,4 +1,4 @@
-y lo que me comentabas del light/dark mode? como lo implementarias con el codigo asi?  <div align="center">
+ <div align="center">
    <img src="./header.png" alt="Exploring the universe" width="100%" />
  </div>
 
