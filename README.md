@@ -1,135 +1,114 @@
-<h1> Hey, I'm Ivan👋 :)</h1>
-<img src="https://readme-typing-svg.demolab.com/?color=0A1240&lines=I'm a Frontend Developer!;In continuous learning!;Full Stack soon!">
- <div align="left">
-<img src="https://img.shields.io/github/followers/JRosSx91?label=Follow&style=social">
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{JRosSx91}1212%2Fhit-counter">
- </div>
-<h2>Find me 👇</h2>
-<a href="https://www.linkedin.com/in/jross91" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only" alt="Connect with me on linkedin" ></a>
-<a href="https://www.instagram.com/toxic_ivy91">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="mailto:igomezcarrasco.91@gmail.com?subject=Questions">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Connect with me by mail"></a>
-<a href="https://steamcommunity.com/profiles/76561198241812224/">
- <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
-<a href="https://www.leagueoflegends.com/es-es/"><img title="as Kouzuki D Oden" src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white"></a>
-<a href="https://discord.gg/EA3yQ3Xy"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
-<a href="https://id.sonyentertainmentnetwork.com/id/management_ca/?gated=true&pr_referer=cam&entry=psn_profile&cid=7249a098-9e80-4bf9-b73e-c9039d431d9b#/p/psn_profile/list?state=cam_144a5767a8f54c2361058d0956cf75c3&cid=863a31fb-25ea-4c0c-b1d4-6ebc7799f2e2&entry=psn_profile"><img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" alt="playstation profile"></a>
-
----
-
-<video src="https://user-images.githubusercontent.com/123682394/234542550-ded8b843-7eec-4142-932b-74bc8d702fdc.mp4" controls="controls" style="max-width: 730px;"></video>
-
-I have been passionate about science and technology since I was a child. I am fascinated by the power of computers to solve complex problems and improve people's lives. I became interested in computers at a very young age, when I had my first encounter with a Windows 3.1 computer. Since then, I have not stopped learning and developing my knowledge and skills in the field of system administration.
-
-I got into programming years later, and it was then that I discovered a perfect analogy to my love for the stars and the universe: the opportunity to create systems with your own laws❤️.
-
-What I love most about programming is the constant need to learn new things and the opportunity to solve unique and challenging problems. I believe this passion for continuous learning and problem solving makes me a strong candidate for any company looking for a passionate and dedicated programmer.
-
-I started with basic knowledge of HTML5, CSS3 and JavaScript to build web applications with server-side PHP programming. From there I started using Js frameworks like Angular or Vue, and I must say that I am in love with the architecture of the latter.
-
-Currently, I'm trying to expand my knowledge of TypeScript, Python and Rust as much as possible. Someday I would like to be a Full Stack😄, because although I love playing with emotions, I think the logic behind the code is the part that attracts me the most.
-
-The discovery of Rust has meant a radical change in my way of looking at programming. Managing low-level code is appealing!
-
-I am excited about the opportunity to further develop my skills in the programming field and hope to bring value to any team I get the chance to work on.
-
-My Curriculum Vitae here: <a href="https://github.com/JRosSx91/JRosSx91/blob/main/IvanGomezActualizado.pdf"><img height="24" src="https://github.com/JRosSx91/JRosSx91/blob/main/6588143.png" alt="my cv"></a>
-
----
-<h2>Techs 📊</h2>
-  <h3>Programming Languages 👩‍💻</h3>
-  <div>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
-</div>
-  <h3>Frameworks & Libraries 🚀</h3>
-  <div>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
-  <img src="https://img.shields.io/badge/nuxt%20js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white">
- </div>
-  <h3>Databases ⚡</h3>
-  <div>
-     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  </div>
-  <h3>Design 🖍</h3>
-  <div>
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
-  <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white">
- </div>
-  <h3>IDE 👩‍💻</h3>
-  <div>
-  <img src="https://img.shields.io/badge/Adobe%20Dreamweaver-072401?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=34F400">
-  <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important">
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></div>
-  <h3>Linters 🧐</h3>
-  <div>
-  <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white">
-  <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E"></div>
-  <h3>CMS 📝</h3>
- <div>
-   <img src="https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white">
-   <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"></div>
-  <h3>SO 💻</h3>
- <div>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
- </div>
-  <br>
-  <h2>GitHub Stats 🔝</h2>
-  <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jrossx91&show_icons=true&theme=buefy&hide_border=true&count_private=true&include_all_commits=true" alt="JRosS91 github stats" /></a>  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JRosSx91&layout=compact&theme=buefy&hide_border=true&langs_count=20&size_weight=0&count_weight=1" /></a>
-  </div>
-<br>
-<h2>Streak Stats ⏱</h2>
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JRosSx91">
-  </div>
-<br>
-<h2>Wakatime Stats 📈</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JRosS91&layout=compact">
-</div>                                                                      <br>
-<h2>Profile Card 💳</h2>
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JRosSx91&theme=default"></div>
-  <br>
- <h2>Trophies 🏆</h2>
  <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JRosSx91&margin-w=15">
-  </div>
-<h2>Cryptocurrencies 💰</h2>
-  <div align="center">
-<img src="https://img.shields.io/coincap/price-usd/bitcoin?style=for-the-badge">
-<img src="https://img.shields.io/coincap/price-usd/ethereum?style=for-the-badge">
-<img src="https://img.shields.io/coincap/price-usd/solana?style=for-the-badge">
-  </div>
-<!--
-**JRosSx91/JRosSx91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hey, I'm Ivan! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Developer by profession. Curious by definition.**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1300&color=0A1240&center=true&vCenter=true&width=850&height=55&lines=Frontend+Developer+%26+Full-Stack+Engineer;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+NestJS;Rust+%C2%B7+Systems+Programming+%C2%B7+Simulation;Building+Things.+Understanding+Everything.;Too+Many+Questions.+Not+Enough+Time." alt="About me" />
+
+<p>
+  <a href="https://www.linkedin.com/in/jross91">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:igomezcarrasco.91@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/JRosSx91/JRosSx91/blob/main/IvanGomezActualizado.pdf">
+    <img src="https://img.shields.io/badge/Resume-0A1240?style=flat-square&logo=readme&logoColor=white" alt="Resume" />
+  </a>
+  <a href="https://steamcommunity.com/profiles/76561198241812224/">
+    <img src="https://img.shields.io/badge/Steam-171A21?style=flat-square&logo=steam&logoColor=white" alt="Steam" />
+  </a>
+</p>
+
+</div>
+
+---
+
+## 🌌 About Me
+
+My fascination with computers began with **Windows 3.1**. I was a kid staring at a screen, wondering what was happening behind it. That curiosity eventually led me into system administration, software development, and a lifelong habit of asking *why*.
+
+I've always loved astronomy and the universe. When I discovered programming, I found a curious parallel: **the ability to build entire systems governed by rules of my own design**. Small universes where logic determines how everything behaves and interacts.
+
+My professional focus is frontend development, particularly **React, Next.js and TypeScript**, but I enjoy working across the stack. From interfaces and user experience to APIs, databases and backend architecture, I'm interested in understanding how the pieces fit together.
+
+Exploring **Rust** introduced me to another side of programming: memory safety, performance and the mechanisms hidden beneath higher-level abstractions.
+
+What drives me isn't just making things work. It's understanding **why they work, why they fail and how they could work better**.
+
+Outside software, my curiosity tends to wander through physics, astronomy, biology, nature and just about anything that raises an interesting question.
+
+**Too many questions. Not nearly enough time. 🌌**
+
+<details>
+<summary>🎬 A little more about me</summary>
+
+<video src="https://user-images.githubusercontent.com/123682394/234542550-ded8b843-7eec-4142-932b-74bc8d702fdc.mp4" controls="controls" width="700"></video>
+
+</details>
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+
+### Backend & Systems
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Databases & Tools
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="190" src="https://github-readme-stats.vercel.app/api?username=JRosSx91&show_icons=true&theme=buefy&hide_border=true&include_all_commits=true" alt="GitHub statistics" />
+  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRosSx91&layout=compact&theme=buefy&hide_border=true&langs_count=10" alt="Most used languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JRosSx91" alt="GitHub contribution streak" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://trophy.ryglcloud.net/?username=JRosSx91&theme=flat&margin-w=15&no-frame=true" alt="GitHub trophies" />
+</div>
+
+---
+
+<div align="center">
+
+*“The important thing is not to stop questioning.”*
+
+**Keep building. Keep exploring. Stay curious. 🚀**
+
+</div>
