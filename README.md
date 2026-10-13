@@ -8,7 +8,29 @@
 
 **Developer by profession. Curious by definition.**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1300&color=0A1240&center=true&vCenter=true&width=850&height=55&lines=Frontend+Developer+%26+Full-Stack+Engineer;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+NestJS;Rust+%C2%B7+Systems+Programming+%C2%B7+Simulation;Building+Things.+Understanding+Everything.;Too+Many+Questions.+Not+Enough+Time." alt="About me" />
+<div align="center">
+  <img src="./header.png" alt="Exploring the universe" width="100%" />
+</div>
+
+<h1 align="center">Hey, I'm Ivan! 👋</h1>
+
+<p align="center">
+  <strong>Developer by profession. Curious by definition.</strong>
+</p>
+
+<div align="center">
+  <!-- Light mode -->
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1300&color=0A1240&center=true&vCenter=true&width=850&height=55&lines=Frontend+Developer+%26+Full-Stack+Engineer;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+NestJS;Rust+%C2%B7+Systems+Programming+%C2%B7+Simulation;Building+Things.+Understanding+Everything.;Too+Many+Questions.+Not+Enough+Time.#gh-light-mode-only"
+    alt="About me"
+  />
+
+  <!-- Dark mode -->
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1300&color=79C0FF&center=true&vCenter=true&width=850&height=55&lines=Frontend+Developer+%26+Full-Stack+Engineer;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+NestJS;Rust+%C2%B7+Systems+Programming+%C2%B7+Simulation;Building+Things.+Understanding+Everything.;Too+Many+Questions.+Not+Enough+Time.#gh-dark-mode-only"
+    alt="About me"
+  />
+</div>
 
 <p>
   <a href="https://www.linkedin.com/in/jross91">
@@ -90,13 +112,32 @@ Outside software, my curiosity tends to wander through physics, astronomy, biolo
 
 ## 📊 GitHub Statistics
 
+<!-- Light mode -->
 <div align="center">
-  <img height="190" src="https://github-readme-stats.vercel.app/api?username=JRosSx91&show_icons=true&theme=buefy&hide_border=true&include_all_commits=true" alt="GitHub statistics" />
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRosSx91&layout=compact&theme=buefy&hide_border=true&langs_count=10" alt="Most used languages" />
+  <img
+    height="190"
+    src="https://github-readme-stats.vercel.app/api?username=JRosSx91&show_icons=true&theme=buefy&hide_border=true&include_all_commits=true#gh-light-mode-only"
+    alt="GitHub statistics"
+  />
+  <img
+    height="190"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRosSx91&layout=compact&theme=buefy&hide_border=true&langs_count=10#gh-light-mode-only"
+    alt="Most used languages"
+  />
 </div>
 
+<!-- Dark mode -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JRosSx91" alt="GitHub contribution streak" />
+  <img
+    height="190"
+    src="https://github-readme-stats.vercel.app/api?username=JRosSx91&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true#gh-dark-mode-only"
+    alt="GitHub statistics"
+  />
+  <img
+    height="190"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRosSx91&layout=compact&theme=github_dark&hide_border=true&langs_count=10#gh-dark-mode-only"
+    alt="Most used languages"
+  />
 </div>
 
 ---
@@ -104,7 +145,17 @@ Outside software, my curiosity tends to wander through physics, astronomy, biolo
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://trophy.ryglcloud.net/?username=JRosSx91&theme=flat&margin-w=15&no-frame=true" alt="GitHub trophies" />
+  <!-- Light mode -->
+  <img
+    src="https://trophy.ryglcloud.net/?username=JRosSx91&theme=flat&margin-w=15&no-frame=true#gh-light-mode-only"
+    alt="GitHub trophies"
+  />
+
+  <!-- Dark mode -->
+  <img
+    src="https://trophy.ryglcloud.net/?username=JRosSx91&theme=darkhub&margin-w=15&no-frame=true#gh-dark-mode-only"
+    alt="GitHub trophies"
+  />
 </div>
 
 ---
