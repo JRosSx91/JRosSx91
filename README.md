@@ -1,4 +1,8 @@
  <div align="center">
+   <img src="./header.png" alt="Exploring the universe" width="100%" />
+ </div>
+
+ <div align="center">
 
 # Hey, I'm Ivan! 👋
 
