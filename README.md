@@ -68,6 +68,8 @@ Soma brings together a personalized recovery dashboard, an interactive anatomica
 
 [**Explore the repository →**](https://github.com/JRosSx91/soma)
 
+☕ [**Support Soma on Ko-fi →**](https://ko-fi.com/somaapp) — Help keep recovery education free and accessible to everyone.
+
 ---
 
 ## 🛠️ Tech Stack
