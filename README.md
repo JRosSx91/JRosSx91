@@ -110,7 +110,7 @@ Soma brings together a personalized recovery dashboard, an interactive anatomica
 
 <div align="center">
   <img height="190" src="https://github-readme-stats.vercel.app/api?username=JRosSx91&show_icons=true&theme=buefy&hide_border=true&include_all_commits=true" alt="GitHub statistics" />
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRosSx91&layout=compact&theme=buefy&hide_border=true&langs_count=10&hide=makefile,llvm,cuda" alt="Most used languages" />
+  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JRosSx91&layout=compact&theme=buefy&hide_border=true&langs_count=10&hide=makefile,llvm,cuda,hack,hlsl,wgsl,dtrace" alt="Most used languages" />
 </div>
 
 <div align="center">
