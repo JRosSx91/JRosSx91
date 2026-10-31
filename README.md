@@ -8,7 +8,7 @@
 
 **Developer by profession. Curious by definition.**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1300&color=0A1240&center=true&vCenter=true&width=850&height=55&lines=Frontend+Developer+%26+Full-Stack+Engineer;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+NestJS;Rust+%C2%B7+Systems+Programming+%C2%B7+Simulation;Building+Things.+Understanding+Everything.;Too+Many+Questions.+Not+Enough+Time." alt="About me" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1300&color=0A1240&center=true&vCenter=true&width=850&height=55&lines=Frontend+Developer+%26+Full-Stack+Engineer;React+%C2%B7+TypeScript+%C2%B7+NestJS;Rust+%C2%B7+Systems+Programming+%C2%B7+Simulation;Building+Things.+Understanding+Everything.;Too+Many+Questions.+Not+Enough+Time." alt="About me" />
 
 <p>
   <a href="https://www.linkedin.com/in/jross91">
