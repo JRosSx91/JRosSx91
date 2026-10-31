@@ -58,17 +58,19 @@ Outside software, my curiosity tends to wander through physics, astronomy, biolo
 
 ### 🧬 [Soma — Understand the Body. Visualize Recovery.](https://github.com/JRosSx91/soma)
 
-**Currently building:** an interactive web application that helps people explore the physiology of recovery during abstinence from psychoactive substances.
+**Now in public beta:** an interactive, free and open-source web application designed to help people understand the physiological processes involved in recovery from psychoactive substance use.
 
-Soma brings together a personalized recovery dashboard, an interactive anatomical atlas, evidence-informed educational content, and achievement milestones. I'm developing it across the stack, from the React interface to the NestJS API and PostgreSQL data model.
+Soma combines a personalized recovery dashboard, an interactive anatomical atlas, evidence-informed educational content, neurotransmitter recovery visualizations, and achievement milestones to make the science of recovery more accessible, engaging, and understandable.
+
+Built and maintained independently, Soma reflects my work across the full stack — from designing responsive interfaces and interactive experiences to developing the NestJS API, PostgreSQL database architecture, and deployment infrastructure.
 
 `React` · `TypeScript` · `Vite` · `Tailwind CSS` · `NestJS` · `Prisma` · `PostgreSQL`
 
-> **Status:** Active development — Soma 2.0 is taking shape.
+> **Status:** 🟢 Public Beta — Actively developed and continuously improved.
+>
+> **Philosophy:** Recovery education should be free, accessible, and grounded in science.
 
 [**Explore the repository →**](https://github.com/JRosSx91/soma)
-
-☕ [**Support Soma on Ko-fi →**](https://ko-fi.com/somaapp) — Help keep recovery education free and accessible to everyone.
 
 ---
 
