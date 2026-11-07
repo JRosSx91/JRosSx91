@@ -54,7 +54,7 @@ Outside software, my curiosity tends to wander through physics, astronomy, biolo
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### 🧬 [Soma — Understand the Body. Visualize Recovery.](https://github.com/JRosSx91/soma)
 
@@ -71,6 +71,24 @@ Built and maintained independently, Soma reflects my work across the full stack 
 > **Philosophy:** Recovery education should be free, accessible, and grounded in science.
 
 [**Explore the repository →**](https://github.com/JRosSx91/soma)
+
+### 🌌 [Aletheia Engine — Exploring the Laws of Possible Universes](https://github.com/JRosSx91/Aletheia-Engine)
+
+**An independent, open-source computational research project** exploring how variations in fundamental physical parameters could influence the structure, behavior, and complexity of hypothetical universes.
+
+At its core, **Harmonic-137** is a Rust-based experimental framework for investigating dimensionless physical constants, alternative parameter configurations, simplified particle physics and cosmological models, and the sensitivity of simulated outcomes to mathematical assumptions.
+
+Beyond numerical simulations, Aletheia Engine integrates interactive scientific visualizations, 3D cellular automata, and a full-stack architecture combining a React-based interface with a NestJS backend. Its long-term research directions include evolutionary universe simulations, time-dependent physical constants, gravitational structure formation, and mathematical consistency of physical laws.
+
+Designed, built, and maintained independently, the project brings together my interests in software engineering, computational physics, scientific visualization, and the exploration of fundamental questions through reproducible experiments.
+
+`Rust` · `Python` · `React` · `TypeScript` · `Three.js` · `React Three Fiber` · `NestJS` · `Plotly` · `3D Visualization` · `Scientific Computing`
+
+> **Status:** 🟡 Active Research & Development — Experimental simulations, reproducible research, and ongoing architectural development.
+>
+> **Philosophy:** Explore the boundaries of physical possibility through computation, question our assumptions, and distinguish scientific evidence from speculative models.
+
+[**Explore the repository →**](https://github.com/JRosSx91/Aletheia-Engine)
 
 ---
 
